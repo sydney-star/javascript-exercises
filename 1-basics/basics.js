@@ -41,7 +41,7 @@ describe("basics", function() {
             ////////////////////////////////////////////////////////////////////
             // Declare "someVariable" in way so that the declaration is NOT hoisted.
             // ✏️ ADD CODE HERE ✏️
-           let someVariable;
+           let someVariable = undefined;
             
             ////////////////////////////////////////////////////////////////////
 
